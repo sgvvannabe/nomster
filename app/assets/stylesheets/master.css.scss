@@ -14,3 +14,14 @@ h1, h2, h3, h4, h5, h6 {
   margin:0;
   padding:0;
 }
+
+body {
+	background: url('/assets/congruent_pentagon.png');
+	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+}
+
+.navbar.navbar-inverse {
+	background:url('/assets/congruent_outline.png');
+	border-radius: 0;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
