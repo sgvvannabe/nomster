@@ -8,6 +8,14 @@
   margin-top: 10px;
   margin-bottom: 15px;
   padding: 20px;
+
+}
+
+.photo-box {
+  display: -webkit-flex; /* Safari */
+  -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+  display: flex;   
+  flex-wrap: wrap;
 }
 
 h1, h2, h3, h4, h5, h6 {
